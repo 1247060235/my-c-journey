@@ -1,0 +1,12 @@
+﻿# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+a.out
+
+# 编辑器
+.vscode/
+
+# 系统
+Thumbs.db
